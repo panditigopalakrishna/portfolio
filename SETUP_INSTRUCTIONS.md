@@ -107,7 +107,7 @@ portfolio-website/
 ├── shared/
 │   └── schema.ts
 ├── assets/
-│   └── (place your resume PDF here as 'Gopalakrishna_Panditi_Resume.pdf')
+│   └── (place your resume PDF here as 'Revanth_Resume_DataEng.pdf')
 ├── .gitignore
 ├── README.md
 ├── SETUP_INSTRUCTIONS.md (this file)
@@ -139,7 +139,7 @@ npm install
 
 1. Create an `assets` folder in the root directory
 2. Place your resume PDF file in the `assets` folder
-3. Name it exactly: `Gopalakrishna_Panditi_Resume.pdf`
+3. Name it exactly: `Revanth_Resume_DataEng.pdf`
 
 ### 4. Start Development Server
 

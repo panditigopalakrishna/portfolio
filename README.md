@@ -1,4 +1,4 @@
-# Gopalakrishna Panditi - Portfolio Website
+#RevanthKumar Reedy - Portfolio Website
 
 A modern, responsive portfolio website showcasing my full-stack development experience with a tech-themed design and blue-greenish color palette.
 
@@ -92,17 +92,18 @@ npm run build
 
 ## 📧 Contact
 
-- **Email**: gopalakrishnapanditi@gmail.com
-- **LinkedIn**: [Gopalakrishna Panditi](https://www.linkedin.com/in/gopala-krishna-panditi-807225207)
-- **GitHub**: [panditigopalakrishna](https://github.com/panditigopalakrishna)
-- **Location**: Dublin, Ireland
+- **Email**: revanthgosula5@gmail.com
+- **LinkedIn**: [Revathkumar Reddy](https://www.linkedin.com/in/gosularevanth/)
+- **Location**: Cincinnati, OH
 
-## 🏆 Achievements
+## Client-Side Only Version
 
-- Ace Award recipient at Accenture for outstanding performance
-- Master's in Data Analytics from Dublin Business School
-- 1.5+ years of professional full-stack development experience
+This project is now a purely client-side React + TypeScript application. There is no server-side code or API. All assets, including the resume PDF, are served statically.
 
-## 📄 License
+### Serving the Resume
+- The resume PDF is located at `client/src/assets/Revanth_Resume_DataEng.pdf`.
+- The download button in the app will open this file directly.
+- Make sure to keep the PDF in the `client/src/assets` folder.
 
-This project is open source and available under the [MIT License](LICENSE).
+### Running the App
+- Use `npm run dev`
